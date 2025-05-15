@@ -47,4 +47,4 @@ params:
   # List of displayed items (e.g. software projects)
   itemDisplays:
     - name: Nitro cold brew pour, yum
-      img_file_name: cold_pour.gif
+      description: cold_pour.gif
