@@ -8,6 +8,10 @@ language: en-GB
 
 theme: yuan
 
+caches:
+  images:
+    dir: :cacheDir/images
+
 params:
   description: Example description
 
@@ -43,5 +47,4 @@ params:
   # List of displayed items (e.g. software projects)
   itemDisplays:
     - name: Nitro cold brew pour, yum
-      description: cold_pour.gif
-    
+      img_file_name: cold_pour.gif
