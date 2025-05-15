@@ -1,0 +1,3 @@
+[submodule "themes/yuan"]
+    path = themes/yuan
+    url = https://github.com/owner/yuan.git
