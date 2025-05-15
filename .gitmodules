@@ -1,7 +1,0 @@
-[submodule "themes/yuan"]
-	path = themes/yuan
-	url = https://github.com/17ms/yuan.git
-[submodule "themes/blowfish"]
-	path = themes/blowfish
-	url = https://github.com/nunocoracao/blowfish.git
-	branch = main
