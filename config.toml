@@ -1,0 +1,4 @@
+baseURL = "https://nutclimber.github.io/strangerdangercoffee/"
+languageCode = "en-us"
+title = "Stranger Danger Coffee"
+theme = "yuan"
