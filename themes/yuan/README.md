@@ -66,15 +66,11 @@ params:
   socialIcons:
     - name: email
       url: "mailto:example@example.com"
-      display: strangerdangercoffee@gmail.com
-    - name: instagram
-      url: "https://www.instagram.com/strangerdangercoffee/"
-
-      
+      display: Optional name shown in tooltips, defaults to capitalized name
 
   # List of displayed items (e.g. software projects)
   itemDisplays:
-    - name: ![cold pour](cold_pour.gif)
+    - name: Example project
       url: "#"
       description: Project description example
 ```

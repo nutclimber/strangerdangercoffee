@@ -3,14 +3,9 @@
 
 baseURL: https://example.com/
 title: Stranger Danger Coffee
-author: Example Author
 language: en-GB
 
 theme: yuan
-
-caches:
-  images:
-    dir: :cacheDir/images
 
 params:
   description: Example description
@@ -27,12 +22,12 @@ params:
     favicon16: "favicon-16x16.png"
     favicon32: "favicon-32x32.png"
     appleTouchIcon: "apple-touch-icon.png"
-    safariPinnedTabIcon: "safari-pinned-tab.svg"
-    safariPinnedTabColor: "#5bbad5"
-    manifest: "manifest.json"
-    msTileColor: "#2b5797"
-    msTileIcon: "mstile-150x150.png"
-    themeColor: "#040404"
+  #  safariPinnedTabIcon: "safari-pinned-tab.svg"
+  #  safariPinnedTabColor: "#5bbad5"
+  #  manifest: "manifest.json"
+  #  msTileColor: "#2b5797"
+  #  msTileIcon: "mstile-150x150.png"
+  #  themeColor: "#040404"
     logo: "logo.png"
 
   # Icons shown below the about text snippet
@@ -41,8 +36,8 @@ params:
     - name: instagram
       url: "https://www.instagram.com/strangerdangercoffee/"
     - name: email
-      url: "mailto:example@example.com"
-      display: Optional name shown in tooltips, defaults to capitalized name
+      url: "mailto:strangerdangercoffee@gmail.com"
+      display: strangerdangercoffee@gmail.com
 
   # List of displayed items (e.g. software projects)
   itemDisplays:
