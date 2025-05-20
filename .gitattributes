@@ -22,3 +22,4 @@ cold_pour.gif filter=lfs diff=lfs merge=lfs -text
 static/cold_pour.gif filter=lfs diff=lfs merge=lfs -text
 public/cold_pour.gif filter=lfs diff=lfs merge=lfs -text
 public/IMG_E9707.gif filter=lfs diff=lfs merge=lfs -text
+./cold_pour.gif filter=lfs diff=lfs merge=lfs -text
